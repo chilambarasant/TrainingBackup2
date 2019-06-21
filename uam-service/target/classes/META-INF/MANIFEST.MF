@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: agrieasy-usecase
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: janakiram.ela
+Implementation-Vendor-Id: com.agrieasy.uam
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/services-base-parent/agrieasy-usecase-uam
+Created-By: Maven Integration for Eclipse
+

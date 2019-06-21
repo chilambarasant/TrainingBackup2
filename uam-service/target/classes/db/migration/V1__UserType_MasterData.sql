@@ -1,0 +1,1 @@
+create table user_type(id varchar(3),user_type varchar(10),primary key(user_type));

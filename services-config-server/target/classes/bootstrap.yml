@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git: 
+          uri: http://10.1.104.186/AgriEasy_App/configdata.git
+          username: manivel.perumal
+          password: M@ni122018
+          default-label: master
