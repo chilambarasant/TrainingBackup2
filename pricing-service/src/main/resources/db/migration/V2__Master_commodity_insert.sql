@@ -1,0 +1,28 @@
+insert into commodity_master values (1,'Rice, paddy','Cereals', 'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiAk4eUt6vgAhUQ6KQKHbxpC90QjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_10838584_cereal-rice-fields-with-ripe-spikes-closeup-macro.html&psig=AOvVaw1DnwpP1ks9EwSYmxLQyVWG&ust=1549690949792326');
+insert into commodity_master values (6,'Wheat','Cereals', 'https://img-aws.ehowcdn.com/350x235p/photos.demandstudios.com/183/15/fotolia_551364_XS.jpg');
+insert into commodity_master values (7,'Soybeans', '', 'https://www.azom.com/image.axd?picture=2018%2F7%2FImageForArticle_16061(1).jpg');
+insert into commodity_master values (8,'Tomatoes','Vegetables', 'https://foodsogoodmall.com/wp-content/uploads/2015/02/sliced_tomatoes-624.jpg');
+insert into commodity_master values (9,'Sugarcane', '', 'https://images-na.ssl-images-amazon.com/images/I/31wwaIz74sL.jpg');
+insert into commodity_master values (10,'Maize (Corn)','Cereals', 'https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29267448.jpg');
+insert into commodity_master values (11,'Eggs, in shell','LivestockPrimary', 'https://www.chatelaine.com/wp-content/uploads/2013/12/Eggs-May-13-p28-660x484-e1387471266851.jpg');
+insert into commodity_master values (12,'Potatoes','RootsandTubers', 'https://images-na.ssl-images-amazon.com/images/I/41SnI3JpZKL._SX355_.jpg');
+insert into commodity_master values (14,'Grapes','Fruit', 'https://images-na.ssl-images-amazon.com/images/I/71mgm8fudZL._SY355_.jpg');
+insert into commodity_master values (17,'Apples','Fruit', 'http://thelunchlady.ca/wp-content/uploads/2015/10/Apples-in-your-diet.jpg');
+insert into commodity_master values (18,'Bananas','Fruit', 'https://images-na.ssl-images-amazon.com/images/I/71gI-IUNUkL._SY355_.jpg');
+insert into commodity_master values (20,'Mangos, Mangosteens, Guavas','Fruit', 'https://www.bfyang.com/images/virtuemart/product/Yellow-mango.jpg');
+insert into commodity_master values (24,'Onions, dry','Vegetables', 'https://diabetesmealplans.com/wp-content/uploads/2017/03/Onions.jpg');
+insert into commodity_master values (25,'Beans, dry and green','Pulses', 'https://thefamilydinnerproject.org/wp-content/uploads/2013/09/Green-bean-lime-633x326.jpg');
+insert into commodity_master values (26,'Peanuts, in shell','', 'https://images.agoramedia.com/everydayhealth/gcms/Eating-Nuts-Adds-up-to-Longer-Life-722x406.jpg');
+insert into commodity_master values (30,'Walnuts, with shell','Treenuts', 'https://nuts.com/images/auto/510x340/assets/f49e2dea3874e8a2.crop.jpg');
+insert into commodity_master values (31,'Chilis and peppers, green and dry','', 'http://www.rachelcooksthai.com/wp-content/uploads/2013/08/thai-chilis-0.jpg');
+insert into commodity_master values (34,'Oranges','Fruit', 'https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/2/18/21852da8-1b7d-11e9-8c28-07fc58d00a98/5c4268d9d0074.image.jpg?resize=400%2C267');
+insert into commodity_master values (35,'Cucumbers','Vegetables', 'https://img.purch.com/rc/300x200/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA3Ni8yMTkvb3JpZ2luYWwvY3VjdW1iZXJzLmpwZw==');
+insert into commodity_master values (43,'Watermelons','Fruit', 'https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/images/watermelon.jpg?itok=vt5gobz_');
+insert into commodity_master values (45,'Asparagus','Vegetables', 'https://www.melaniecooks.com/wp-content/uploads/2014/02/microwave-asparagus2.jpg');
+insert into commodity_master values (47,'Carrots, Turnips ','Vegetables', 'https://i.ndtvimg.com/mt/cooks/2014-11/carrots.jpg');
+insert into commodity_master values (49,'Coconuts','Treenuts', 'https://www.emiratesbiofarm.com/uploads/files/product/coconuts_4382_resized_d9dfdbc5-5037-41cb-88d2-43088d2c449c_grande.jpg');
+insert into commodity_master values (50,'Tangerines','CitrusFruit', 'https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/24172212/ING-tangerine-thumb1x1.jpg');
+insert into commodity_master values (51,'Lemons, Limes','CitrusFruit', 'https://images-na.ssl-images-amazon.com/images/I/719Uzl01oKL._SY355_.jpg');
+insert into commodity_master values (52,'Strawberries','Fruit', 'https://images-na.ssl-images-amazon.com/images/I/71Cfp51ZuzL._SX355_.jpg');
+insert into commodity_master values (54,'Hazelnut, with shell','Treenuts', 'https://www.adagio.com/images5/flavor_thumbnail/hazelnut.jpg');
+		
