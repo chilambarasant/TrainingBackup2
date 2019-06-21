@@ -1,0 +1,227 @@
+.App {
+  text-align: center;
+}
+
+a{
+  color: white;
+  text-decoration:none;
+}
+
+.leftAlign{
+
+    text-align: right;
+    margin-left: auto;
+    
+}
+
+body {
+  background: #e2e1e0;
+  text-align: center;
+}
+
+.headderH1 {
+  height: 100px;
+  width: 100%;
+  font-size: 25px;
+  background:#3B6746;
+  color: white;
+  line-height: 100%;
+  border-radius: 3px 3px 0 0;
+  box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+form {
+  box-sizing: border-box;
+  width: 60%;
+  margin: 100px auto 0;
+  box-shadow: 2px 2px 10px 10px rgba(12, 12, 12, 0.2);
+  /* padding-bottom: 40px; */
+  border-radius: 3px;
+}
+.forgotPSW{
+  text-align: right;
+  margin-right: 16px;
+  color: white;
+  text-decoration: underline;
+
+}
+form h1 { 
+  box-sizing: border-box;
+  /* padding: 40px; */
+}
+.divWidth{
+  width: 50%;
+  /* margin-top: -54px; */
+  margin-top:auto;
+  height: -webkit-fill-available;
+}
+.buttonCss{
+  color: white;
+    background: #18aa8d;
+}
+
+.greenAvatar{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  background: #18aa8d;
+}
+
+.radioClass{
+  display: flow-root
+}
+
+.addButton{
+  text-align: right;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+.modalCSS{
+  /* width: 100%; */
+  height: auto;
+}
+.MuiPaper-root-10{
+  /* width: 100%; */
+}
+.Dashboard2-content-81 {
+  overflow: visible !important;
+}
+.MuiDialog-paperWidthSm-202 {
+  width: 600px !important;
+}
+
+.textFieldCss{
+  margin-top: '12px';
+}
+
+
+.backgroundStyle {
+  background-image: url('/15.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  overflow: -webkit-paged-x;
+  /* overflow: hidden; */
+};
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.div1{
+  width: 100%;
+  /* position: absolute; */
+  height: 50px;
+
+}
+
+.MuiAppBar-colorPrimary-8{
+  background-color: #3B6746 !important;
+}
+
+.MuiLink {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.MuiInputLabel-animated-191 {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.MuiInputBase-input-224{
+  color:white !important;
+  font-weight: bold !important;
+}
+
+.dashboardValues{
+  font-size: 15px;
+    font-weight: bold;
+}
+
+.MuiAppBar-colorPrimary-23 {
+  background-color:#3B6746 !important;
+}
+
+.imageCSS{
+  height: 200px;
+  width: 200px;
+}
+
+
+
+/* //forgotpassword .buttonCss */
+
+.MuiTypography-colorPrimary-71 {
+  color: white !important;
+}
+
+.back{
+color: red;
+text-decoration: none;
+font-size: 24px;
+}
+
+.MuiInput-underline-241:after {
+ 
+  border-bottom: 2px solid white !important;
+}
+
+.MuiInputBase-input-260 {
+  color: white !important;
+}
+
+.MuiFormLabel-root-230 {
+  color: white !important;
+}
+
+.MuiTypography-body1-50 {
+  color:white !important; 
+  
+}
+ 
+.App>div>div>header {
+  color: #fff;
+  background-color:  #3B6746 !important;
+}
+
+.backgroundStyle>div>div>header{
+  color: #fff;
+  background-color:  #3B6746 !important;
+}
+
+.headderH1>div>label{
+  color: white !important;
+}
+
+.whiteLabel>div>input{
+  color: white !important;
+}
+.whiteLabel{
+  color: white !important;
+}
+.forgotPSW>button{
+  color: white !important;
+}
+
+.whiteLabel>label{
+  color: white !important;
+}
+.whiteLabel>div>div>input{
+  color: white !important;
+}
+
+.welcome {
+  text-align: right !important;
+  font-size: large !important;
+  font-weight: bold !important;
+  color: red !important;
+}
