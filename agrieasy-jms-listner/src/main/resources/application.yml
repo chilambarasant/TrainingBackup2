@@ -1,0 +1,10 @@
+server:
+  port: 8282
+
+unimoni:
+  activemq:
+    broker:
+      url: tcp://localhost:61616
+      username: admin
+      password: admin
+      queue: order
